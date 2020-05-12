@@ -1,0 +1,28 @@
+{
+  "name": "xsvbot",
+  "version": "1.0.0",
+  "description": "xsvbot",
+  "main": "init.js",
+  "author": "",
+  "license": "",
+  "scripts": {
+    "start": "env user=master node start.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js#58e5017159ebe9b89327b1647cb433a412be2a46",
+    "moment": "^2.22.2",
+    "node-fetch": "^2.2.0",
+    "node-opus": "^0.3.0",
+    "rainbowsix-api-node": "0.0.1",
+    "ytdl-core": "^0.25.2"
+  },
+  "optionalDependencies": {
+    "bufferutil": "^3.0.4",
+    "erlpack": "github:discordapp/erlpack",
+    "zlib-sync": "^0.1.4"
+  }
+}
