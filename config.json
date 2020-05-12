@@ -1,8 +1,8 @@
 {
-    "token": "NDkyODM4NzM4OTQzMDE2OTgz.DocP4g.F-Y29WePSmCAv-XvQqFu0Tv3GdQ",
-    "admins": ["141340599100899328", "122823998043193347"],
-    "logChannel": "459843933506109441",
-    "logGuild": "281663524323983360",
+    "token": "xxxxxxx",
+    "admins": ["xxx", "xxxxxx"],
+    "logChannel": "xxxx",
+    "logGuild": "xxx",
     "MySQL": {
         "host": "",
         "user": "",
