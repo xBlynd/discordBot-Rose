@@ -1,6 +1,5 @@
-![xsv io_2000x450_transparent_arma3_unit_emblem](https://user-images.githubusercontent.com/38157848/46923261-190efc00-cfdb-11e8-8a78-cefeede7efef.png)
+![xsvCommunity Image](http://xsv.is/images/cover.png)
 
 ## xsvCommunity Discord Bot
+Bot depracated Dec 2019.  Community will be rebuilding in python once a Core platform is decided.
 
-
-### Branch Breakdown
